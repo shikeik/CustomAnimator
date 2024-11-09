@@ -1,0 +1,1 @@
+a=0; for f in *.png; do mv "$f" "$a.png"; a=$((a + 1)); done

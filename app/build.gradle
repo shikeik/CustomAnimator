@@ -6,8 +6,8 @@ android {
 
     defaultConfig {
         applicationId "com.goldsprite.customanimator"
-        minSdkVersion 14
-        targetSdkVersion 23
+        minSdkVersion 21
+        targetSdkVersion 24
         versionCode 1
         versionName "1.0"
     }
